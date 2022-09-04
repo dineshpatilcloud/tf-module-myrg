@@ -1,5 +1,5 @@
 locals {
-  rg_name = "${var.function}-${var.project}-${var.environment}-rg"
+  rg_name = "${var.function}-${var.project}-${var.environment}--dev-rg"
   
 }
 
